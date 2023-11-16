@@ -13,8 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Chema # author name
   bio: >- # tell to the world
-    Hola a todos, mi nombre es Chema y soy un jugador de voleibol profesional.
-    En estos momentos estoy estudiando el segundo curso del grado superior de ASIR, y además tengo un blog en el que subo post sobre figuras de anime para coleccionistas.
+    En esta página vamos a publicar varios posts sobre figuras de anime.
   username: Chemitaxs # general username
   github: Chemitaxs # github username
   twitter: Chemitaxs # twitter username
