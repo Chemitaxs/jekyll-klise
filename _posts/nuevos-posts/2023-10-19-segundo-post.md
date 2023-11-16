@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Falsificaciones e imitaciones en el coleccionismo"
+date:   2023-10-19 13:50:28 +0200
+categories: jekyll update
+---
+¡Hola a tod@s!
+
+Esperamos que hayáis tenido un verano fantástico. Hacia algún tiempo que no subíamos ningún post en el blog y esta vez queremos dedicarlo a hablar sobre un tema que como tienda dedicada al coleccionismo/merchandising y como coleccionistas que somos, consideramos importante: falsificaciones e imitaciones. Ya hablamos un poco sobre esto en la entrada ¿Cómo funciona una tienda de coleccionismo y merchandising? pero esta vez queremos dedicarnos a hablar íntegramente de ello. Es un tema amplio en el que además de las falsificaciones e imitaciones, también tiene cabida algo ya más controvertido como es el trabajo de artistas independientes que aunque tengan mucho arte y hagan cosas maravillosas; muchas veces no es una idea/personaje/diseño original suyo y sin embargo ganan dinero a costa de ello. Queremos dejar claro que con este post no queremos atacar a ningún sector y muchos menos a los artistas o artesanos que con sus manos hacen cosas realmente increíbles. Iremos punto por punto para que al terminar todos podamos tener un poco más de empatía y respeto por el trabajo, dedicación y esfuerzo de los demás ya que bajo nuestro punto de vista vivimos en una sociedad cada vez más exigente y menos comprensiva que ha integrado en su vida el típico lema de; Bueno, bonito y barato (lo decimos en términos generales puesto que no todo el mundo es así pero sí hay un gran porcentaje que vive con esta filosofía). Tampoco vamos a hacer ningún juicio y no pretendemos culpar a nadie puesto que comprendemos que es el sistema en el que nos educa y del cual no somos conscientes hasta que decidimos tomar consciencia de ello.
